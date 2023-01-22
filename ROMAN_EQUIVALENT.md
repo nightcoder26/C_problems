@@ -1,4 +1,4 @@
-### Write a general-purpose function to convert any given year into its roman equivalent. The following table shows the roman equivalents of decimal numbers
+### Write a c program to convert any given year into its roman equivalent. The following table shows the roman equivalents of decimal numbers
 
 |  Decimal   |  Roman   |
 |------------|----------|
