@@ -1,5 +1,7 @@
 ### Write a C program to chea=ck the collinearity of three points if the co-ordinates are input through the keyboard 
 #### Note :
+##### Two or more points are collinear if they lie on a same line 
+##### (Hint : slopes of the lines formed by these points will all be same)
 
 ```c
 #include<stdio.h>
